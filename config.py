@@ -9,20 +9,20 @@ API_HASH = os.environ.get("API_HASH","fdad88238287459c6dc790658f1008c1")
 # ------------------------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "7932917298:AAEL3e4KNWMpIh2u_HS_ulXUWJ1K0wH0OkU")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "Textuploader_bot")
 BOT_TEXT = ":𝐈𝐓'𝐬𝐆𝐎𝐋𝐔.™®:"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "728093729"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002601604234"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003128716989"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002601604234")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003128716989")) 
 # ------------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://wadiro6523:08AwfhhKRdQaS1i6@cluster0.krzxuop.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://Ruhiltech:g5S.HsnEvzHF28y@cluster0.pvdgwmz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002601604234"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003128716989"))
 # -----------------------------------------------
 join = '<a href="">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
